@@ -5,7 +5,7 @@
 <br>
 
 <h2>Hello!!</h2>
-<p>I'm krutkrutaya, a backend developer who also does <b>reverse engineering</b> and builds <b>cheat tooling</b>.</p>
+<p>I'm a backend developer who also does <b>reverse engineering</b> and builds <b>cheat tooling</b>.</p>
 <p>I work in <b>C++, Rust, Python, Dart, Java and JavaScript</b> - i switch between them depending on what the task needs.</p>
 <p>i LOVE reversing things. seriously, taking something apart and figuring out how it works inside is like an addiction to me. once i start i can't stop until i understand every corner of it.</p>
 <br>
