@@ -1,4 +1,3 @@
-<h3>krutkrutaya</h3>
 <p><code>backend developer</code>, <code>reverse engineer</code>, <code>cheat tooling</code>, <code>c++</code>, <code>rust</code></p>
 <p>backend developer & reverse engineer</p>
 <hr>
